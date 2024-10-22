@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/sites":{"owner":"www-data","group":"www-data","guestpath":"/home/vagrant/sites","hostpath":"C:/Users/jmm7g/ISW811/VMs/webserver/sites","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/jmm7g/ISW811/VMs/webserver","disabled":false,"__vagrantfile":true}}}
