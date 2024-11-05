@@ -29,7 +29,7 @@ class JobPosted extends Mailable
     {
         return new Envelope(
             subject: 'Job Posted',
-            from: 'admin@laracasts.com'
+            from: 'josephme5712@gmail.com'
         );
     }
 
